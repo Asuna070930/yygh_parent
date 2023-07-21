@@ -1,0 +1,51 @@
+2023-07-13 08:38:08.647 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 08:38:08.677 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 08:38:09.132 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2023-07-13 10:00:00.860 [http-nio-8160-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 10:01:52.070 [http-nio-8160-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 10:06:36.254 [http-nio-8160-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 10:09:12.896 [http-nio-8160-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 10:15:00.648 [http-nio-8160-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 10:23:44.319 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2023-07-13 10:23:45.781 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 10:23:45.791 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 10:31:51.454 [http-nio-8160-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 10:32:36.326 [http-nio-8160-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 11:17:24.807 [http-nio-8160-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 11:19:25.385 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58s143ms989µs600ns).
+2023-07-13 11:20:45.141 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49s748ms388µs200ns).
+2023-07-13 11:23:26.208 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s564ms625µs700ns).
+2023-07-13 11:25:50.530 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m23s23ms864µs900ns).
+2023-07-13 11:30:09.661 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49s64ms452µs500ns).
+2023-07-13 11:30:56.970 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47s313ms364µs800ns).
+2023-07-13 11:33:12.998 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m16s23ms497µs700ns).
+2023-07-13 11:34:31.939 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m18s941ms589µs400ns).
+2023-07-13 14:06:56.841 [http-nio-8160-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 14:20:17.330 [http-nio-8160-exec-12] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 14:35:43.030 [http-nio-8160-exec-12] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 14:54:24.382 [http-nio-8160-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 14:54:50.268 [http-nio-8160-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 14:54:52.138 [http-nio-8160-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 14:55:04.358 [http-nio-8160-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 15:11:20.397 [http-nio-8160-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 15:11:48.593 [http-nio-8160-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 15:18:08.421 [http-nio-8160-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 15:18:41.128 [http-nio-8160-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 15:19:04.431 [http-nio-8160-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 18:55:58.906 [http-nio-8160-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 19:09:21.430 [http-nio-8160-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 19:09:28.727 [http-nio-8160-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [feign.RetryableException: Read timed out executing GET http://service-cmn/admin/cmn/getName/10]
+2023-07-13 19:29:56.019 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 19:29:56.032 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 19:39:24.638 [http-nio-8160-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 19:39:40.651 [http-nio-8160-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 19:55:50.182 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 19:55:50.192 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 20:09:54.415 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 20:09:54.426 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 20:11:26.614 [http-nio-8160-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=用户被锁定，不允许登录)]
+2023-07-13 20:13:42.043 [http-nio-8160-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [YyghException(code=20001, msg=令牌不合法)]
+2023-07-13 20:48:04.157 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 20:48:04.170 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 21:18:23.643 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2023-07-13 21:18:23.657 [restartedMain] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.

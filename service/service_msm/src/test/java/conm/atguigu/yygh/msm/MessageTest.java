@@ -1,6 +1,6 @@
-package com.atguigu.yygh.msm;
+package conm.atguigu.yygh.msm;
 
-import com.atguigu.yygh.common.msm.HttpUtils;
+import com.atguigu.common.msm.HttpUtils;
 import org.apache.http.HttpResponse;
 
 import java.util.HashMap;
@@ -13,14 +13,14 @@ public class MessageTest {
         String path = "/sms/smsSend";
         String method = "POST";
 
-        String appcode = "f28c4545f88d47e59eb306461b8cbccb";
+        String appcode = "40b1f46f7a894f3a84f327181bb035e5";
 
         Map<String, String> headers = new HashMap<String, String>();
         //最后在header中的格式(中间是英文空格)为Authorization:APPCODE 83359fd73fe94948385f570e3c139105
         headers.put("Authorization", "APPCODE " + appcode);
         Map<String, String> querys = new HashMap<String, String>();
-        querys.put("mobile", "13104406696");
-        querys.put("param", "**code**:"+5678+",**minute**:5"); //注意：纯数字
+        querys.put("mobile", "18317326627");
+        querys.put("param", "**code**:"+2233+",**minute**:5"); //注意：纯数字
 
 //smsSignId（短信前缀）和templateId（短信模板），可登录国阳云控制台自助申请。参考文档：http://help.guoyangyun.com/Problem/Qm.html
         // 【国阳云】xxxxx

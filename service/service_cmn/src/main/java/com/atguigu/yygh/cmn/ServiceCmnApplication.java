@@ -1,8 +1,9 @@
-package com.atguigu.cmn;
+package com.atguigu.yygh.cmn;
 
-import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.ComponentScan;
 
 /**
@@ -11,9 +12,10 @@ import org.springframework.context.annotation.ComponentScan;
  * @Date: 2023/6/25 18:25
  */
 
+@EnableDiscoveryClient
+@EnableFeignClients
 @ComponentScan(basePackages = "com.atguigu") //为了能扫描到service-util下的配置类(或组件)
 @SpringBootApplication
-@MapperScan(basePackages = "com.atguigu.yygh.cmn.mapper")
 public class ServiceCmnApplication {
     public static void main(String[] args) {
         SpringApplication.run(ServiceCmnApplication.class, args);

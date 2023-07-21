@@ -1,4 +1,4 @@
-package com.atguigu.yygh.hosp.utils;
+package com.atguigu.common.utils;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

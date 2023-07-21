@@ -14,8 +14,8 @@ import org.springframework.context.annotation.ComponentScan;
 
 //排除数据源的自动配置
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
-public class ServiceOSSApplication {
+public class ServiceOssApplication {
     public static void main(String[] args) {
-        SpringApplication.run(ServiceOSSApplication.class,args);
+        SpringApplication.run(ServiceOssApplication.class,args);
     }
 }

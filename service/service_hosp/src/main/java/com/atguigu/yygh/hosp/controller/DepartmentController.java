@@ -18,7 +18,7 @@ import java.util.List;
  */
 @RestController
 @RequestMapping("/admin/hosp/department")
-public class DeparmentController {
+public class DepartmentController {
 
     @Autowired
     DepartmentService departmentService;

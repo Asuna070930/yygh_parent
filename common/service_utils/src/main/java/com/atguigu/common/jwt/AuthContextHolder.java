@@ -1,4 +1,4 @@
-package com.atguigu.yygh.common.jwt;
+package com.atguigu.common.jwt;
 
 import javax.servlet.http.HttpServletRequest;
 

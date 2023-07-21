@@ -1,4 +1,4 @@
-package com.atguigu.yygh.orders.util;
+package com.atguigu.yygh.order.util;
 
 import lombok.extern.slf4j.Slf4j;
 

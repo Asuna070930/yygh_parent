@@ -1,6 +1,15 @@
-package com.atguigu.yygh.hosp.mapper;/**
+package com.atguigu.yygh.hosp.mapper;
+
+import com.atguigu.yygh.model.hosp.HospitalSet;
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.springframework.stereotype.Repository;
+
+/**
  * @Description:
  * @Author: LiHao
  * @Date: 2023/6/25 18:33
- */public interface HospitalSetMapper {
+ */
+@Repository
+public interface HospitalSetMapper extends BaseMapper<HospitalSet> {
+    public Integer calCount();
 }

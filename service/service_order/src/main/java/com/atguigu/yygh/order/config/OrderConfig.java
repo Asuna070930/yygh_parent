@@ -13,8 +13,8 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
  */
 @Configuration //当前是一个配置类 可以配置各种 bean 组件
 @EnableTransactionManagement //开启事务
-@MapperScan(basePackages = "com.atguigu.yygh.cmn.mapper")
-public class CmnConfig {
+@MapperScan(basePackages = "com.atguigu.yygh.order.mapper")
+public class OrderConfig {
 
     /**
      * 分页插件

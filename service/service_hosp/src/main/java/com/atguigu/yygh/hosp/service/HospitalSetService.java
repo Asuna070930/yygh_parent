@@ -1,6 +1,8 @@
-package com.atguigu.yygh.hosp.service;/**
- * @Description:
- * @Author: LiHao
- * @Date: 2023/6/25 18:29
- */public interface HospitalSetService {
+package com.atguigu.yygh.hosp.service;
+
+import com.atguigu.yygh.model.hosp.HospitalSet;
+import com.baomidou.mybatisplus.extension.service.IService;
+
+public interface HospitalSetService extends IService<HospitalSet> {
+     HospitalSet getByHoscode(String hoscode);
 }

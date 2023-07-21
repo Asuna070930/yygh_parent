@@ -1,4 +1,4 @@
-package com.atguigu.yygh.mq;
+package com.atguigu.yygh.mq.consts;
 
 /**
  * @Description:

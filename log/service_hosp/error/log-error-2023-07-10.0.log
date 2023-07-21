@@ -297,7 +297,7 @@ Caused by: java.lang.ClassNotFoundException: com.atguigu.yygh.hosp.repository.De
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
 	... 43 common frames omitted
 2023-07-10 17:51:35.082 [restartedMain] ERROR org.springframework.boot.SpringApplication - Application run failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deparmentController': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.atguigu.yygh.hosp.controller.DeparmentController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@bdb1f50]
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deparmentController': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.atguigu.yygh.hosp.controller.DepartmentController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@bdb1f50]
 	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:287)
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1286)
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1201)
@@ -322,7 +322,7 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 	at java.lang.reflect.Method.invoke(Method.java:498)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
-Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.atguigu.yygh.hosp.controller.DeparmentController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@bdb1f50]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.atguigu.yygh.hosp.controller.DepartmentController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@bdb1f50]
 	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:477)
 	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:318)
 	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:265)
@@ -342,7 +342,7 @@ Caused by: java.lang.ClassNotFoundException: com.atguigu.common.result.R
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
 	... 29 common frames omitted
 2023-07-10 19:29:58.133 [restartedMain] ERROR org.springframework.boot.SpringApplication - Application run failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deparmentController': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.atguigu.yygh.hosp.controller.DeparmentController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@1abc1c7d]
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deparmentController': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.atguigu.yygh.hosp.controller.DepartmentController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@1abc1c7d]
 	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:287)
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1286)
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1201)
@@ -367,7 +367,7 @@ org.springframework.beans.factory.BeanCreationException: Error creating bean wit
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 	at java.lang.reflect.Method.invoke(Method.java:498)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
-Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.atguigu.yygh.hosp.controller.DeparmentController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@1abc1c7d]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.atguigu.yygh.hosp.controller.DepartmentController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@1abc1c7d]
 	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:477)
 	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:318)
 	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:265)

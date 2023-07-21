@@ -1,7 +1,7 @@
-package com.atguigu.yygh.orders.util;
+package com.atguigu.yygh.order.util;
 
 import com.alibaba.fastjson.JSONObject;
-import com.atguigu.yygh.common.utils.MD5;
+import com.atguigu.common.utils.MD5;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Date;

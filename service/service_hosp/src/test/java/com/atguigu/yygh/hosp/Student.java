@@ -17,11 +17,11 @@ public class Student {
     private String id;
 
     @Field(value = "stu_name")//name属性映射到文档中的字段
-//    @Indexed(unique = true)建立唯一索引
-//    @Indexed 建立普通索引
+    //@Indexed(unique = true)建立唯一索引
+    //@Indexed 建立普通索引
     private String name;
 
-//    @Field 不适用该注解，说明类中的属性名和文档中的字段名是一致的
+    //    @Field 不适用该注解，说明类中的属性名和文档中的字段名是一致的
     private String address;
 
     private Integer age;
